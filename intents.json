@@ -1,0 +1,55 @@
+{"intents": [
+  {"tag": "greeting",
+   "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+   "responses": ["Hello", "Hi", "Hi there"]
+  },
+  {"tag": "goodbye",
+   "patterns": ["Bye", "See you later", "Goodbye"],
+   "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+  },
+  {"tag": "thanks",
+   "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+   "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+  },
+  {"tag": "about",
+   "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+   "responses": ["I.m Joana, your bot assistant", "I'm Joana, an Artificial Intelligent bot"]
+  },
+  {"tag": "name",
+  "patterns": ["what is your name", "what should I call you", "whats your name?"],
+  "responses": ["You can call me Joana.", "I'm Joana!", "Just call me as Joana"]
+  },
+  {"tag": "help",
+  "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+  "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+  },
+  {"tag": "Work-life balance policies",
+  "patterns": ["reason for the Work-life balance policies", "good idea of providing work life balance policy", "why Work-life balance policies?", "What can you do for employees?", "why you are supporting employees for worklife balance", "need of worklife balance", "how do you support your employee to work well"],
+  "responses": ["At ThetaZero, we understand that employees face challenges balancing their personal and professional lives, so we propose a work-life balance policy","our staff members will be able to achieve fulfillment on both a personal and professional level", "give staff members chances to balance their personal and professional lives"]
+  },
+  {"tag": "services",
+  "patterns": ["What services you are providing now?", "any additional services you provide?", "list down the services that you provide", "what services you provide?", "how many services provided by company"],
+  "responses": ["we are providing AI,Cloud computing,IOT,data security, and automation systems ", "we provide IT expertise in UI/UX design and the development of software, and applications (for iOS and Android)"]
+  },
+  {"tag": "about thetazero",
+  "patterns": ["How long it has been since you started?", "What kind of impact this company has on the society?", "when its started", "can you create an account for me", "how to open a new account"],
+  "responses": ["thetazero started at 2022 ", "100% customer statisfaction provding good worklife balance"]
+  },
+  {"tag": "contact by mail",
+  "patterns": ["how to reach thetazero", "location of theteazero in chennai", "any other option to reach thetazero through online", "can you provide mail id how to contact thetazero", "can you please provide email id for contact"],
+  "responses": ["yes,you can reach by email reachus@thetazero.tech","you can send a email to reachus@thetazero.tech along with your details our team will reach you soon"]
+  },
+  {"tag": "office location",
+  "patterns": ["location of theteazero in chennai", "where thetazero is location", "headquaters of thetazero", "can you create an account for me", "how to find a office address in chennai"],
+  "responses": ["10, Manikandan Nagar, Hasthinapuram, Chennai, Tamil Nadu, India - 600 064", "Chennai, Tamil Nadu, India - 600 064",""]
+  },
+  {"tag": "how to clarify the doubts",
+  "patterns": ["how to reach thetazero through online", "can i send message to company", "chat to hr or company"],
+  "responses": ["you can send a message along with your details our team will reach you soon","you can send a message along with your details our team will reach you soon"]
+  },
+  {"tag": "purpose of starting thetazero",
+  "patterns": ["What is the key objective of starting this company?", "why thetazero", "purpose of starting thetazero"],
+  "responses": ["to produce Innovative Products and Technology Solutions at affordable cost.", "target of thr consumers to get the best services"]
+  }
+]
+}
